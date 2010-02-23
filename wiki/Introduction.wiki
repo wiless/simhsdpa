@@ -1,0 +1,15 @@
+#summary What is simhsdpa project all about goes here
+
+= Introduction =
+
+I had written few codes to simulate link-level simulation of CDMA systems for my research work in C++ using itpp library. So wanted to release to public domain for the benefit of new research scholars. 
+
+I am looking for collaborators, if someone is interested about it. you are welcome 
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
